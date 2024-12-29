@@ -1,0 +1,15 @@
+{
+    "structures": [
+        {
+            "structure": "buried_boroughs:village_spruce",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 6942069,
+        "separation": 8,
+        "spacing": 32,
+        "spread_type": "triangular"
+    }
+}
