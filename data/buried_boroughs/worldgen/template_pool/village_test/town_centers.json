@@ -4,7 +4,7 @@
         {
             "element": {
                 "element_type": "minecraft:single_pool_element",
-                "location": "buried_boroughs:village_spruce/town_centers/target",
+                "location": "buried_boroughs:village_test/town_centers/cross",
                 "projection": "rigid",
                 "processors": "minecraft:empty"
             },

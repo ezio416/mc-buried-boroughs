@@ -1,0 +1,15 @@
+{
+    "structures": [
+        {
+            "structure": "buried_boroughs:village_test",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "type": "minecraft:random_spread",
+        "salt": 69,
+        "separation": 8,
+        "spacing": 32,
+        "spread_type": "triangular"
+    }
+}
