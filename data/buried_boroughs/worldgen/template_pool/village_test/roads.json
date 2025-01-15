@@ -45,6 +45,24 @@
                 "processors": "minecraft:empty"
             },
             "weight": 3
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "buried_boroughs:village_test/roads/spiral-up-right",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 2
+        },
+        {
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "buried_boroughs:village_test/roads/ladder",
+                "projection": "rigid",
+                "processors": "minecraft:empty"
+            },
+            "weight": 2
         }
     ]
 }
